@@ -1,0 +1,8 @@
+{
+  "label": "Stocks",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "30 seconds to import your brokerages into InvestMates"
+  }
+}
