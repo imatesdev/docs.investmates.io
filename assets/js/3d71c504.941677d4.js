@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinvestmates_docs=self.webpackChunkinvestmates_docs||[]).push([[994],{9704:t=>{t.exports=JSON.parse('{"title":"Crypto","slug":"/category/crypto","permalink":"/docs/category/crypto","navigation":{"previous":{"title":"Mutual Funds","permalink":"/docs/import/mf"},"next":{"title":"WazirX","permalink":"/docs/import/crypto/wazirx"}}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinvestmates_docs=self.webpackChunkinvestmates_docs||[]).push([[295],{128:s=>{s.exports=JSON.parse('{"title":"Link Assets","slug":"/category/link-assets","permalink":"/docs/category/link-assets","navigation":{"previous":{"title":"Introduction","permalink":"/docs/intro"},"next":{"title":"Stocks","permalink":"/docs/category/stocks"}}}')}}]);
