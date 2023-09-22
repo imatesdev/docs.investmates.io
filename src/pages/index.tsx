@@ -31,7 +31,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`Welcome to docs`}
-      description="Description will go into a meta tag in <head />">
+      description="InvestMates app user guide to get started">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
